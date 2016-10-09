@@ -15,7 +15,7 @@ public class FixDebugThirteen4
    {
       Scanner keyBoard = new Scanner(System.in);
       Path file =
-              Paths.get("C:\\Java\\Chapter.13\\DebugData4.txt");
+              Paths.get("C:\\Users\\Ashlee\\Documents\\2nd Year - Sem 2\\Programming II\\practicals\\Porjects\\cp2406_farrell8_ch13\\DebuggingExercises\\DebugData4.txt");
       String[] array = new String[2];
       String string = "";
       String delimiter = ",";
